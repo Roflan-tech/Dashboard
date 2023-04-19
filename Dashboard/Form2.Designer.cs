@@ -97,90 +97,90 @@
             label1.AutoSize = true;
             label1.Location = new Point(60, 45);
             label1.Name = "label1";
-            label1.Size = new Size(71, 20);
+            label1.Size = new Size(59, 20);
             label1.TabIndex = 0;
-            label1.Text = "Symbol 1";
+            label1.Text = "Symbol";
             // 
             // label2
             // 
             label2.AutoSize = true;
             label2.Location = new Point(60, 111);
             label2.Name = "label2";
-            label2.Size = new Size(71, 20);
+            label2.Size = new Size(59, 20);
             label2.TabIndex = 1;
-            label2.Text = "Symbol 2";
+            label2.Text = "Symbol";
             // 
             // label3
             // 
             label3.AutoSize = true;
             label3.Location = new Point(60, 178);
             label3.Name = "label3";
-            label3.Size = new Size(71, 20);
+            label3.Size = new Size(59, 20);
             label3.TabIndex = 3;
-            label3.Text = "Symbol 3";
+            label3.Text = "Symbol";
             // 
             // label4
             // 
             label4.AutoSize = true;
             label4.Location = new Point(60, 242);
             label4.Name = "label4";
-            label4.Size = new Size(71, 20);
+            label4.Size = new Size(59, 20);
             label4.TabIndex = 2;
-            label4.Text = "Symbol 4";
+            label4.Text = "Symbol";
             // 
             // label5
             // 
             label5.AutoSize = true;
             label5.Location = new Point(60, 307);
             label5.Name = "label5";
-            label5.Size = new Size(71, 20);
+            label5.Size = new Size(59, 20);
             label5.TabIndex = 4;
-            label5.Text = "Symbol 5";
+            label5.Text = "Symbol";
             // 
             // label6
             // 
             label6.AutoSize = true;
             label6.Location = new Point(60, 372);
             label6.Name = "label6";
-            label6.Size = new Size(71, 20);
+            label6.Size = new Size(59, 20);
             label6.TabIndex = 5;
-            label6.Text = "Symbol 6";
+            label6.Text = "Symbol";
             // 
             // label7
             // 
             label7.AutoSize = true;
             label7.Location = new Point(60, 439);
             label7.Name = "label7";
-            label7.Size = new Size(71, 20);
+            label7.Size = new Size(59, 20);
             label7.TabIndex = 6;
-            label7.Text = "Symbol 7";
+            label7.Text = "Symbol";
             // 
             // label8
             // 
             label8.AutoSize = true;
             label8.Location = new Point(60, 505);
             label8.Name = "label8";
-            label8.Size = new Size(71, 20);
+            label8.Size = new Size(59, 20);
             label8.TabIndex = 7;
-            label8.Text = "Symbol 8";
+            label8.Text = "Symbol";
             // 
             // label9
             // 
             label9.AutoSize = true;
             label9.Location = new Point(60, 570);
             label9.Name = "label9";
-            label9.Size = new Size(71, 20);
+            label9.Size = new Size(59, 20);
             label9.TabIndex = 8;
-            label9.Text = "Symbol 9";
+            label9.Text = "Symbol";
             // 
             // label10
             // 
             label10.AutoSize = true;
             label10.Location = new Point(60, 637);
             label10.Name = "label10";
-            label10.Size = new Size(79, 20);
+            label10.Size = new Size(59, 20);
             label10.TabIndex = 9;
-            label10.Text = "Symbol 10";
+            label10.Text = "Symbol";
             // 
             // btnPrepareBot1
             // 
@@ -194,7 +194,7 @@
             btnPrepareBot1.Name = "btnPrepareBot1";
             btnPrepareBot1.Size = new Size(175, 45);
             btnPrepareBot1.TabIndex = 10;
-            btnPrepareBot1.Text = "Prepare Bot 1";
+            btnPrepareBot1.Text = "Prepare Bot";
             btnPrepareBot1.UseVisualStyleBackColor = false;
             // 
             // btnPrepareBot2
@@ -209,7 +209,7 @@
             btnPrepareBot2.Name = "btnPrepareBot2";
             btnPrepareBot2.Size = new Size(175, 45);
             btnPrepareBot2.TabIndex = 11;
-            btnPrepareBot2.Text = "Prepare Bot 2";
+            btnPrepareBot2.Text = "Prepare Bot";
             btnPrepareBot2.UseVisualStyleBackColor = false;
             // 
             // btnPrepareBot3
@@ -224,7 +224,7 @@
             btnPrepareBot3.Name = "btnPrepareBot3";
             btnPrepareBot3.Size = new Size(175, 45);
             btnPrepareBot3.TabIndex = 12;
-            btnPrepareBot3.Text = "Prepare Bot 3";
+            btnPrepareBot3.Text = "Prepare Bot";
             btnPrepareBot3.UseVisualStyleBackColor = false;
             // 
             // btnPrepareBot4
@@ -239,7 +239,7 @@
             btnPrepareBot4.Name = "btnPrepareBot4";
             btnPrepareBot4.Size = new Size(175, 45);
             btnPrepareBot4.TabIndex = 13;
-            btnPrepareBot4.Text = "Prepare Bot 4";
+            btnPrepareBot4.Text = "Prepare Bot";
             btnPrepareBot4.UseVisualStyleBackColor = false;
             // 
             // btnPrepareBot5
@@ -254,7 +254,7 @@
             btnPrepareBot5.Name = "btnPrepareBot5";
             btnPrepareBot5.Size = new Size(175, 45);
             btnPrepareBot5.TabIndex = 14;
-            btnPrepareBot5.Text = "Prepare Bot 5";
+            btnPrepareBot5.Text = "Prepare Bot";
             btnPrepareBot5.UseVisualStyleBackColor = false;
             // 
             // btnPrepareBot6
@@ -269,7 +269,7 @@
             btnPrepareBot6.Name = "btnPrepareBot6";
             btnPrepareBot6.Size = new Size(175, 45);
             btnPrepareBot6.TabIndex = 15;
-            btnPrepareBot6.Text = "Prepare Bot 6";
+            btnPrepareBot6.Text = "Prepare Bot";
             btnPrepareBot6.UseVisualStyleBackColor = false;
             // 
             // btnPrepareBot7
@@ -284,7 +284,7 @@
             btnPrepareBot7.Name = "btnPrepareBot7";
             btnPrepareBot7.Size = new Size(175, 45);
             btnPrepareBot7.TabIndex = 16;
-            btnPrepareBot7.Text = "Prepare Bot 7";
+            btnPrepareBot7.Text = "Prepare Bot";
             btnPrepareBot7.UseVisualStyleBackColor = false;
             // 
             // btnPrepareBot8
@@ -299,7 +299,7 @@
             btnPrepareBot8.Name = "btnPrepareBot8";
             btnPrepareBot8.Size = new Size(175, 45);
             btnPrepareBot8.TabIndex = 17;
-            btnPrepareBot8.Text = "Prepare Bot 8";
+            btnPrepareBot8.Text = "Prepare Bot";
             btnPrepareBot8.UseVisualStyleBackColor = false;
             // 
             // btnPrepareBot9
@@ -314,7 +314,7 @@
             btnPrepareBot9.Name = "btnPrepareBot9";
             btnPrepareBot9.Size = new Size(175, 45);
             btnPrepareBot9.TabIndex = 18;
-            btnPrepareBot9.Text = "Prepare Bot 9";
+            btnPrepareBot9.Text = "Prepare Bot";
             btnPrepareBot9.UseVisualStyleBackColor = false;
             // 
             // btnPrepareBot10
@@ -329,7 +329,7 @@
             btnPrepareBot10.Name = "btnPrepareBot10";
             btnPrepareBot10.Size = new Size(175, 45);
             btnPrepareBot10.TabIndex = 19;
-            btnPrepareBot10.Text = "Prepare Bot 10";
+            btnPrepareBot10.Text = "Prepare Bot";
             btnPrepareBot10.UseVisualStyleBackColor = false;
             // 
             // btnStartWatching10
@@ -344,7 +344,7 @@
             btnStartWatching10.Name = "btnStartWatching10";
             btnStartWatching10.Size = new Size(175, 45);
             btnStartWatching10.TabIndex = 29;
-            btnStartWatching10.Text = "Start Watching 10";
+            btnStartWatching10.Text = "Start Watching";
             btnStartWatching10.UseVisualStyleBackColor = false;
             // 
             // btnStartWatching9
@@ -359,7 +359,7 @@
             btnStartWatching9.Name = "btnStartWatching9";
             btnStartWatching9.Size = new Size(175, 45);
             btnStartWatching9.TabIndex = 28;
-            btnStartWatching9.Text = "Start Watching 9";
+            btnStartWatching9.Text = "Start Watching";
             btnStartWatching9.UseVisualStyleBackColor = false;
             // 
             // btnStartWatching8
@@ -374,7 +374,7 @@
             btnStartWatching8.Name = "btnStartWatching8";
             btnStartWatching8.Size = new Size(175, 45);
             btnStartWatching8.TabIndex = 27;
-            btnStartWatching8.Text = "Start Watching 8";
+            btnStartWatching8.Text = "Start Watching";
             btnStartWatching8.UseVisualStyleBackColor = false;
             // 
             // btnStartWatching7
@@ -389,7 +389,7 @@
             btnStartWatching7.Name = "btnStartWatching7";
             btnStartWatching7.Size = new Size(175, 45);
             btnStartWatching7.TabIndex = 26;
-            btnStartWatching7.Text = "Start Watching 7";
+            btnStartWatching7.Text = "Start Watching";
             btnStartWatching7.UseVisualStyleBackColor = false;
             // 
             // btnStartWatching6
@@ -404,7 +404,7 @@
             btnStartWatching6.Name = "btnStartWatching6";
             btnStartWatching6.Size = new Size(175, 45);
             btnStartWatching6.TabIndex = 25;
-            btnStartWatching6.Text = "Start Watching 6";
+            btnStartWatching6.Text = "Start Watching";
             btnStartWatching6.UseVisualStyleBackColor = false;
             // 
             // btnStartWatching5
@@ -419,7 +419,7 @@
             btnStartWatching5.Name = "btnStartWatching5";
             btnStartWatching5.Size = new Size(175, 45);
             btnStartWatching5.TabIndex = 24;
-            btnStartWatching5.Text = "Start Watching 5";
+            btnStartWatching5.Text = "Start Watching";
             btnStartWatching5.UseVisualStyleBackColor = false;
             // 
             // btnStartWatching4
@@ -434,7 +434,7 @@
             btnStartWatching4.Name = "btnStartWatching4";
             btnStartWatching4.Size = new Size(175, 45);
             btnStartWatching4.TabIndex = 23;
-            btnStartWatching4.Text = "Start Watching 4";
+            btnStartWatching4.Text = "Start Watching";
             btnStartWatching4.UseVisualStyleBackColor = false;
             // 
             // btnStartWatching3
@@ -449,7 +449,7 @@
             btnStartWatching3.Name = "btnStartWatching3";
             btnStartWatching3.Size = new Size(175, 45);
             btnStartWatching3.TabIndex = 22;
-            btnStartWatching3.Text = "Start Watching 3";
+            btnStartWatching3.Text = "Start Watching";
             btnStartWatching3.UseVisualStyleBackColor = false;
             // 
             // btnStartWatching2
@@ -464,7 +464,7 @@
             btnStartWatching2.Name = "btnStartWatching2";
             btnStartWatching2.Size = new Size(175, 45);
             btnStartWatching2.TabIndex = 21;
-            btnStartWatching2.Text = "Start Watching 2";
+            btnStartWatching2.Text = "Start Watching";
             btnStartWatching2.UseVisualStyleBackColor = false;
             // 
             // btnStartWatching1
@@ -479,7 +479,7 @@
             btnStartWatching1.Name = "btnStartWatching1";
             btnStartWatching1.Size = new Size(175, 45);
             btnStartWatching1.TabIndex = 20;
-            btnStartWatching1.Text = "Start Watching 1";
+            btnStartWatching1.Text = "Start Watching";
             btnStartWatching1.UseVisualStyleBackColor = false;
             // 
             // btnStopWatching10
@@ -494,7 +494,7 @@
             btnStopWatching10.Name = "btnStopWatching10";
             btnStopWatching10.Size = new Size(175, 45);
             btnStopWatching10.TabIndex = 39;
-            btnStopWatching10.Text = "Stop Watching 10";
+            btnStopWatching10.Text = "Stop Watching";
             btnStopWatching10.UseVisualStyleBackColor = false;
             // 
             // btnStopWatching9
@@ -509,7 +509,7 @@
             btnStopWatching9.Name = "btnStopWatching9";
             btnStopWatching9.Size = new Size(175, 45);
             btnStopWatching9.TabIndex = 38;
-            btnStopWatching9.Text = "Stop Watching 9";
+            btnStopWatching9.Text = "Stop Watching";
             btnStopWatching9.UseVisualStyleBackColor = false;
             // 
             // btnStopWatching8
@@ -524,7 +524,7 @@
             btnStopWatching8.Name = "btnStopWatching8";
             btnStopWatching8.Size = new Size(175, 45);
             btnStopWatching8.TabIndex = 37;
-            btnStopWatching8.Text = "Stop Watching 8";
+            btnStopWatching8.Text = "Stop Watching";
             btnStopWatching8.UseVisualStyleBackColor = false;
             // 
             // btnStopWatching7
@@ -539,7 +539,7 @@
             btnStopWatching7.Name = "btnStopWatching7";
             btnStopWatching7.Size = new Size(175, 45);
             btnStopWatching7.TabIndex = 36;
-            btnStopWatching7.Text = "Stop Watching 7";
+            btnStopWatching7.Text = "Stop Watching";
             btnStopWatching7.UseVisualStyleBackColor = false;
             // 
             // btnStopWatching6
@@ -554,7 +554,7 @@
             btnStopWatching6.Name = "btnStopWatching6";
             btnStopWatching6.Size = new Size(175, 45);
             btnStopWatching6.TabIndex = 35;
-            btnStopWatching6.Text = "Stop Watching 6";
+            btnStopWatching6.Text = "Stop Watching";
             btnStopWatching6.UseVisualStyleBackColor = false;
             // 
             // btnStopWatching5
@@ -569,7 +569,7 @@
             btnStopWatching5.Name = "btnStopWatching5";
             btnStopWatching5.Size = new Size(175, 45);
             btnStopWatching5.TabIndex = 34;
-            btnStopWatching5.Text = "Stop Watching 5";
+            btnStopWatching5.Text = "Stop Watching";
             btnStopWatching5.UseVisualStyleBackColor = false;
             // 
             // btnStopWatching4
@@ -584,7 +584,7 @@
             btnStopWatching4.Name = "btnStopWatching4";
             btnStopWatching4.Size = new Size(175, 45);
             btnStopWatching4.TabIndex = 33;
-            btnStopWatching4.Text = "Stop Watching 4";
+            btnStopWatching4.Text = "Stop Watching";
             btnStopWatching4.UseVisualStyleBackColor = false;
             // 
             // btnStopWatching3
@@ -599,7 +599,7 @@
             btnStopWatching3.Name = "btnStopWatching3";
             btnStopWatching3.Size = new Size(175, 45);
             btnStopWatching3.TabIndex = 32;
-            btnStopWatching3.Text = "Stop Watching 3";
+            btnStopWatching3.Text = "Stop Watching";
             btnStopWatching3.UseVisualStyleBackColor = false;
             // 
             // btnStopWatching2
@@ -614,7 +614,7 @@
             btnStopWatching2.Name = "btnStopWatching2";
             btnStopWatching2.Size = new Size(175, 45);
             btnStopWatching2.TabIndex = 31;
-            btnStopWatching2.Text = "Stop Watching 2";
+            btnStopWatching2.Text = "Stop Watching";
             btnStopWatching2.UseVisualStyleBackColor = false;
             // 
             // btnStopWatching1
@@ -629,7 +629,7 @@
             btnStopWatching1.Name = "btnStopWatching1";
             btnStopWatching1.Size = new Size(175, 45);
             btnStopWatching1.TabIndex = 30;
-            btnStopWatching1.Text = "Stop Watching 1";
+            btnStopWatching1.Text = "Stop Watching";
             btnStopWatching1.UseVisualStyleBackColor = false;
             // 
             // checkBox1
